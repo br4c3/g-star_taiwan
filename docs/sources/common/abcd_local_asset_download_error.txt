@@ -1,0 +1,10 @@
+<span
+style="
+font-weight: bold;
+font-size: 1.2em;
+">
+비정상적인 접근 요청으로 웹 방화벽에서 차단되었습니다. <br>
+정상적인 접근 요청인 경우 아래 번호로 연락주시기 바랍니다. <br>
+<br>
+- TEL : 042-869-6340 or 6736 <br>
+- 근무시간 : 평일 09:00 ~ 18:00<br><br><br><Li> Time : 2026-07-15 15:31:23 </Li><Li> Source ip : 112.171.196.253 </Li><Li> Url : /krihs/archive/articlePdf </Li>
