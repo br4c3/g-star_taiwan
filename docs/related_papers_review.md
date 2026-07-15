@@ -123,6 +123,32 @@
 - 한계: 영국 그린벨트 조사이므로 갯벌·염전의 생태적 민감성과 이용규칙은 별도로 설계해야 한다.
 - [Newcastle University 공개 원문 안내](https://eprints.ncl.ac.uk/295028)
 
+### 3.4 시흥 환경전환·노동·구술기록
+
+#### 12) 고태우(2025)
+
+- 서지: 「어디까지 개발해야 할까?―시화호 30년, 오염과 개선의 이중주」, *인문논총*, 82(1), 81-124. DOI: 10.17326/jhsnu.82.1.202502.81.
+- 핵심 결과: 1994년 방조제 완공 후 산업·생활하수 유입으로 시화호가 심각하게 오염됐고, 주민·환경단체의 비판과 해수유통·하수처리·조력발전을 거치며 수질과 생태계가 회복된 과정을 분석한다.
+- 과제 적용: 생태와 산업을 별개 자산으로 나열하지 않고 개발–오염–갈등–회복이라는 지역의 환경전환사로 기록한다. 개발주체·주민·노동자·환경활동가의 상충하는 기억을 병렬 수집한다.
+- 한계: 시화호 전체의 장기변화를 다룬 역사연구로, 시흥 주민의 현재 인지도나 콘텐츠 수요를 측정한 연구는 아니다.
+- [내려받은 PDF](sources/papers/ko_2025_sihwa_lake_30_years.pdf) · [KCI 서지·초록](https://journal.kci.go.kr/snu-ioh/archive/articleView?artiId=ART003183706)
+
+#### 13) 곽건홍(2009)
+
+- 서지: 「노동 아카이브(Labor Archives) 설립 환경에 관한 연구」, *기록학연구*, 20, 77-114.
+- 핵심 결과: 노동기록이 증빙문서 위주로 분절되어 작업과 조직활동 전체를 재현하기 어렵다고 지적하며 사진·팸플릿·개인기록·구술·조직기록을 생산 시점부터 관리해야 한다고 제안한다.
+- 과제 적용: 스마트허브의 업체 수나 고용 통계보다 노동자의 작업기술·개인사진·작업도구·조직과 생활의 기억을 기록대상으로 삼는다.
+- 한계: 노동운동과 노동조합 아카이브에 초점을 두므로 개별 제조근로자의 생활문화 기록에는 별도 조사설계가 필요하다.
+- [내려받은 PDF](sources/papers/kwak_2009_labor_archives.pdf) · [KCI 서지·초록](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001338607)
+
+#### 14) 최정은(2011)
+
+- 서지: 「사회적 기억과 구술 기록화 그리고 아키비스트」, *기록학연구*, 30.
+- 핵심 논점: 구술기록은 녹음파일만이 아니라 구술자 선정과 사전조사, 면담 상황, 녹취·검수 등 면담 전후의 생산맥락까지 포함해 관리해야 한다.
+- 과제 적용: 주민 구술을 ‘면담 전–면담 중–면담 후’ 기록군으로 관리하고 선정 이유, 질문지, 현장메모, 동의서, 녹취문, 공개검수와 수정이력을 보존한다.
+- 한계: 구술기록의 방법론 연구이므로 표본 수와 지역 콘텐츠 효과는 본 과제에서 별도로 정해야 한다.
+- [내려받은 PDF](sources/papers/choi_2011_social_memory_oral_records.pdf) · [KCI 원문](https://journal.kci.go.kr/ksas/archive/articlePdf?artiId=ART001600754)
+
 ## 4. 연구 설계에 바로 반영할 사항
 
 ### 4.1 자산조사표 필수 열
@@ -155,12 +181,15 @@
 
 ## 6. 원문 파일 목록
 
-정상 PDF로 확인하여 프로젝트에 보관한 파일은 다음 5개다.
+정상 PDF로 확인하여 프로젝트에 보관한 핵심 파일은 다음 8개다.
 
 1. [자산지도화 국내 사례 연구](sources/papers/krihs_2012_asset_based_community_activation.pdf)
 2. [지역 아카이빙 기록화 연구](sources/papers/ksas_2009_regional_archiving.pdf)
 3. [항만도시재생 기록화 요소 연구](sources/papers/kslis_2024_port_city_regeneration_documentation.pdf)
 4. [도시재생 참여 주체로서 도서관 연구](sources/papers/kbiblia_2020_library_urban_regeneration.pdf)
 5. [참여형 자산매핑·포토보이스 연구](sources/papers/dhital_2023_participatory_asset_mapping.pdf)
+6. [시화호 30년 환경전환 연구](sources/papers/ko_2025_sihwa_lake_30_years.pdf)
+7. [노동 아카이브 설립 연구](sources/papers/kwak_2009_labor_archives.pdf)
+8. [사회적 기억과 구술 기록화 연구](sources/papers/choi_2011_social_memory_oral_records.pdf)
 
 나머지는 공식 학술지 또는 대학 저장소의 공개 원문·서지 페이지를 연결했다. 접근 제한이 있는 문서는 비정상 파일을 저장하지 않았다.
