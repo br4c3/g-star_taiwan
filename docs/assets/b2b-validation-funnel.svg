@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+  <title id="title">12주 B2B 검증 목표 퍼널</title><desc id="desc">잠재고객 20곳, 유효접촉 15곳, 미팅 10건, 샘플 5건, 견적 3건, 발주 1건의 목표</desc>
+  <rect width="1200" height="650" fill="#faf9f6"/>
+  <text x="60" y="62" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#171717">12주 B2B 검증 목표 퍼널</text><text x="60" y="98" font-family="Arial, sans-serif" font-size="17" fill="#595959">실제 성과가 아니라 사전에 정한 검증 목표</text>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <path d="M130 145 H1070 L1005 210 H195 Z" fill="#17243b"/><text x="600" y="186" font-size="22" font-weight="700" fill="#fff">잠재고객 20곳</text>
+    <path d="M195 225 H1005 L940 290 H260 Z" fill="#31425d"/><text x="600" y="266" font-size="22" font-weight="700" fill="#fff">유효접촉 15곳</text>
+    <path d="M260 305 H940 L875 370 H325 Z" fill="#52627b"/><text x="600" y="346" font-size="22" font-weight="700" fill="#fff">구매담당 미팅 10건</text>
+    <path d="M325 385 H875 L810 450 H390 Z" fill="#8b675e"/><text x="600" y="426" font-size="22" font-weight="700" fill="#fff">실물 샘플 5건</text>
+    <path d="M390 465 H810 L745 530 H455 Z" fill="#a35d4d"/><text x="600" y="506" font-size="22" font-weight="700" fill="#fff">공식 견적 3건</text>
+    <path d="M455 545 H745 L690 605 H510 Z" fill="#7b3f32"/><text x="600" y="583" font-size="21" font-weight="700" fill="#fff">유료발주 1건 · 30세트 이상</text>
+  </g>
+</svg>

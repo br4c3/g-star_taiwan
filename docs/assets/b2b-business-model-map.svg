@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+  <title id="title">개항장 B2B 로컬기프트 거래구조</title>
+  <desc id="desc">개항장 상점에서 스타트업을 거쳐 행사, 숙박, 기업 구매기관으로 상품이 이동하고 대금과 데이터가 돌아오는 구조</desc>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L9,3 L0,6 Z" fill="#333"/></marker></defs>
+  <rect width="1200" height="620" fill="#faf9f6"/>
+  <text x="60" y="62" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#171717">B2B 로컬기프트 거래구조</text>
+  <text x="60" y="96" font-family="Arial, sans-serif" font-size="17" fill="#5a5a5a">스타트업은 광고 플랫폼이 아니라 상품·콘텐츠·주문·납품을 통합하는 거래 운영자다.</text>
+  <rect x="60" y="155" width="280" height="285" rx="8" fill="#fff" stroke="#7b3f32" stroke-width="3"/>
+  <text x="200" y="202" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#7b3f32">개항장 상점·공방</text>
+  <text x="92" y="252" font-family="Arial, sans-serif" font-size="18" fill="#222">• 기존 상품과 생산기술</text><text x="92" y="290" font-family="Arial, sans-serif" font-size="18" fill="#222">• 공급가격·수량·리드타임</text><text x="92" y="328" font-family="Arial, sans-serif" font-size="18" fill="#222">• 생산자 이야기와 검수</text><text x="92" y="366" font-family="Arial, sans-serif" font-size="18" fill="#222">• 반복 공급</text>
+  <rect x="460" y="135" width="280" height="325" rx="8" fill="#17243b" stroke="#17243b" stroke-width="3"/>
+  <text x="600" y="184" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#fff">개항장 발견상점</text>
+  <text x="492" y="234" font-family="Arial, sans-serif" font-size="18" fill="#fff">• 상품 발굴·선정</text><text x="492" y="272" font-family="Arial, sans-serif" font-size="18" fill="#fff">• 표준키트·이야기카드</text><text x="492" y="310" font-family="Arial, sans-serif" font-size="18" fill="#fff">• 샘플·견적·계약</text><text x="492" y="348" font-family="Arial, sans-serif" font-size="18" fill="#fff">• 통합 조달·품질검수</text><text x="492" y="386" font-family="Arial, sans-serif" font-size="18" fill="#fff">• 포장·납품·상점정산</text><text x="492" y="424" font-family="Arial, sans-serif" font-size="18" fill="#fff">• 재주문 관리</text>
+  <rect x="860" y="155" width="280" height="285" rx="8" fill="#fff" stroke="#7b3f32" stroke-width="3"/>
+  <text x="1000" y="202" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#7b3f32">구매기관</text>
+  <text x="892" y="252" font-family="Arial, sans-serif" font-size="18" fill="#222">• 행사·MICE 운영사</text><text x="892" y="290" font-family="Arial, sans-serif" font-size="18" fill="#222">• 호텔·숙박업체</text><text x="892" y="328" font-family="Arial, sans-serif" font-size="18" fill="#222">• 기업·대학</text><text x="892" y="366" font-family="Arial, sans-serif" font-size="18" fill="#222">• 문화기관</text>
+  <line x1="350" y1="260" x2="445" y2="260" stroke="#333" stroke-width="3" marker-end="url(#arrow)"/><text x="398" y="244" text-anchor="middle" font-family="Arial, sans-serif" font-size="15">상품·조건</text>
+  <line x1="750" y1="260" x2="845" y2="260" stroke="#333" stroke-width="3" marker-end="url(#arrow)"/><text x="798" y="244" text-anchor="middle" font-family="Arial, sans-serif" font-size="15">키트·납품</text>
+  <line x1="850" y1="355" x2="755" y2="355" stroke="#7b3f32" stroke-width="3" marker-end="url(#arrow)"/><text x="802" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="15">발주·대금</text>
+  <line x1="450" y1="355" x2="355" y2="355" stroke="#7b3f32" stroke-width="3" marker-end="url(#arrow)"/><text x="402" y="390" text-anchor="middle" font-family="Arial, sans-serif" font-size="15">정상가격 정산</text>
+  <rect x="170" y="510" width="860" height="65" rx="32" fill="#efe9df"/>
+  <text x="600" y="550" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#333">성과: 유료발주 · 공헌이익 · 정상가격 지역매입 · 반복거래 · 재주문</text>
+</svg>

@@ -1,126 +1,101 @@
-# 인천·시흥 지역문화 재생 연구 자료 출처대장
+# 인천 개항장 B2B 로컬기프트 출처대장
 
-작성·최종 확인일: 2026-07-15  
-기록 범위: 통합 논문, 정량자료, 지역대안, 선행연구 검토에 실제 채택하거나 원문으로 보관한 자료  
-기록 원칙: 자료명, 발행·운영기관, 자료유형, 사용 목적, 외부 URL, 로컬 보관파일, 해석상 주의를 함께 기록
+**기준일:** 2026년 7월 15일
 
-## 1. 출처 등급
+**원칙:** 공식·학술자료는 지역성·정책·시장접점·제품설계·법적 요건의 근거로 사용하며 B2B 구매수요는 별도 검증한다. 현재 대장은 공식자료 27건, 학술자료 12건, 로컬 보관 원문 6건을 관리한다.
 
-| 등급 | 유형 | 사용 원칙 |
-|---|---|---|
-| A | 법령·국가통계·지자체·공공기관 원문 | 현황과 수치의 주 근거로 사용 |
-| B | 등재학술지·대학 저장소·공개 연구보고서 | 이론, 방법론과 사례해석의 근거로 사용 |
-| C | 언론기사·기관 보도·관광 안내 | 정책 쟁점과 사례 확인에만 사용 |
-| D | 검색포털·민간 플랫폼 | 후속자료 탐색용이며 핵심 결론의 단독 근거로 사용하지 않음 |
+## 1. 개항장 지역성·정책
 
-## 2. 학술논문과 연구보고서
-
-| No. | 자료 | 기관·학술지 | 등급 | 연구에서 사용한 내용 | 원문·서지 | 로컬 파일 |
-|---:|---|---|:---:|---|---|---|
-| 1 | 커뮤니티 개발과정에서의 자산지도화기법 활용 사례 연구 | 국토연구원, 국토연구 75, 2012 | B | 주민 참여형 PPGIS·자산지도 방법 | [KCI](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART001724402) | [PDF](sources/papers/krihs_2012_asset_based_community_activation.pdf) |
-| 2 | 커뮤니티 재생을 위한 커뮤니티 자산 측정도구 비교 연구 | 대한건축학회논문집, 2014 | B | 물리·인적·관계·기관 등 자산분류 | [KCI](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001846597) | 미보관 |
-| 3 | 지역 아카이빙을 위한 기록화방안 연구 | 기록학연구 21, 2009 | B | 민간기록·지역성·생활기억의 기록 필요 | [KCI](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART001365321) | [PDF](sources/papers/ksas_2009_regional_archiving.pdf) |
-| 4 | 항만도시재생 기록화 요소 개발에 관한 연구 | 한국문헌정보학회지 58(1), 2024 | B | 항만도시 기록화 32개 요소 | [KCI](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003053418) | [PDF](sources/papers/kslis_2024_port_city_regeneration_documentation.pdf) |
-| 5 | 도시재생 참여 주체로서 도서관의 역할에 관한 연구 | 한국비블리아학회지 31(1), 2020 | B | 도서관을 주민참여·교육 거점으로 설정 | [KCI](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002570112) | [PDF](sources/papers/kbiblia_2020_library_urban_regeneration.pdf) |
-| 6 | 지역문화 튜토리얼 인력 모델의 형성과 과제 | 지역사회연구 34(1), 2026 | B | 주민 기록자·중간지원 인력의 역할 | [KOAJ 권호](https://www.kci.go.kr/kciportal/landing/journalArticleList.kci?sere_id=001492&vol_isse_id=VOL000194635) | 미보관 |
-| 7 | 지역 자산을 활용한 지역 주체성 확립과 관계인구 형성 | 지역사회연구 34(1), 2026 | B | 장소정체성·관계 형성을 중간성과로 설정 | [KCI](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003320717) | 미보관 |
-| 8 | Participatory asset mapping and photovoice interviews | Perspectives in Public Health, 2023 | B | 사진·구술·자산매핑 결합, 자산의 양면성 | [UCL](https://discovery.ucl.ac.uk/id/eprint/10172982/) | [PDF](sources/papers/dhital_2023_participatory_asset_mapping.pdf) |
-| 9 | A place-based participatory mapping approach for assessing cultural ecosystem services | People and Nature 2(1), 2019 | B | 장소감·휴식·접근장벽 등 문화생태계서비스 | [대학 서지](https://research.brighton.ac.uk/en/publications/a-placebased-participatory-mapping-approach-for-assessing-cultura/) · [PDF 원문](https://research.brighton.ac.uk/files/23938424/pan3.10057.pdf) | 외부 링크 |
-| 10 | Translating policy to place | Ecosystems and People 19(1), 2023 | B | 779명·2,388개 지점 참여형 자연가치 매핑 | [Newcastle](https://eprints.ncl.ac.uk/295028) | 외부 링크 |
-| 11 | Participatory methodological approaches for regenerative cultural policy | International Journal of Cultural Policy, 2025 | B | 이야기·감정·기억·비이용장벽 문화매핑 | [출판사 원문](https://www.tandfonline.com/doi/full/10.1080/10286632.2025.2470820) | 외부 링크 |
-| 12 | 어디까지 개발해야 할까?―시화호 30년, 오염과 개선의 이중주 | 서울대 인문논총 82(1), 2025 | B | 시화호 개발–오염–비판–해수유통–회복의 시간축 | [KCI](https://journal.kci.go.kr/snu-ioh/archive/articleView?artiId=ART003183706) | [PDF](sources/papers/ko_2025_sihwa_lake_30_years.pdf) |
-| 13 | 노동 아카이브 설립 환경에 관한 연구 | 기록학연구 20, 2009 | B | 사진·개인기록·구술·조직기록의 생산시점 관리 | [KCI](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001338607) | [PDF](sources/papers/kwak_2009_labor_archives.pdf) |
-| 14 | 사회적 기억과 구술 기록화 그리고 아키비스트 | 기록학연구 30, 2011 | B | 면담 전·중·후 구술기록 생산맥락 관리 | [KCI 원문](https://journal.kci.go.kr/ksas/archive/articlePdf?artiId=ART001600754) | [PDF](sources/papers/choi_2011_social_memory_oral_records.pdf) |
-| 15 | 옛 소래염전 소금창고 고증조사 용역 | 경기도메모리 | B | 소금창고·염전체험장·복원염전의 역사·공간 근거 | [원문](https://memory.library.kr/files/original/15f8f35520622ebe856fa1cdd48dffc2.pdf) | [PDF](sources/siheung/sorae_salt_warehouse_historical_research.pdf) |
-
-## 3. 인천 공식 통계·정책·데이터
-
-| No. | 자료·사이트 | 기관 | 등급 | 사용 내용 | 외부 URL | 로컬 파일·코드 |
-|---:|---|---|:---:|---|---|---|
-| 16 | 2024 인천광역시 청년통계 | 인천광역시 | A | 청년인구·가구·1인가구·고용 | [공식 발표](https://www.incheon.go.kr/IC010205/view?beginDt=&curPage=1&endDt=&repSeq=DOM_0000000014056885&srchMainManagerDeptNm=&srchRepContents=&srchRepTitle=) | [PDF](sources/incheon/incheon_youth_statistics.pdf), `IC_YOUTH_2024` |
-| 17 | 인천 청년통계 최초 개발 발표 | 인천광역시 | A | 2020 청년 전입·전출·순이동·사유 | [공식 발표](https://www.incheon.go.kr/IC010205/view?curPage=975&repSeq=DOM_0000000003916139) | 같은 청년통계 계열, `IC_YOUTH_2020` |
-| 18 | 2025년 주요업무계획 | 인천광역시 | A | 정책방향과 지역사업 배경 | 인천시 원문 내려받기 자료 | [PDF](sources/incheon/incheon_2025_major_plan.pdf) |
-| 19 | 인천 외래관광객 정책 방향 | 인천연구원 | A/B | 방문·체류정책의 배경과 한계 | 인천연구원 원문 | [PDF](sources/incheon/incheon_foreign_tourism_policy_2025.pdf) |
-| 20 | 남동국가산업단지 현황 | 남동구 기업지원 | A | 산업단지 현황 확인 | [공식 사이트](https://biz.namdong.go.kr/support/sub/state.jsp) | 미보관 |
-| 21 | 남동산단 주차장 379면 조성 | 인천광역시 | A/C | 산단 생활환경 개선 사례 | [공식 보도](https://www.incheon.go.kr/mayor_8/MA040101/view?beginDt=&curPage=36&endDt=&repSeq=DOM_0000000014589075&srchMainManagerDeptNm=&srchRepContents=&srchRepTitle=) | 미보관 |
-| 22 | 인천 사업체조사 안내 | 인천광역시 | A | 사업체 공급자 규모의 상한 확인 | [공식 발표](https://www.incheon.go.kr/IC010205/view?repSeq=DOM_0000000011741866) | 미보관 |
-| 23 | 인천NOW 관광정보 파일데이터 | 공공데이터포털·인천관광공사 | A | 기존 관광데이터 존재와 서비스 중복 가능성 | [데이터](https://www.data.go.kr/data/15140280/fileData.do) | 미보관 |
-| 24 | 인천 추천패스 정보 | 공공데이터포털·인천관광공사 | A | 기존 추천패스 데이터 존재 | [데이터](https://www.data.go.kr/data/15140286/fileData.do) | 미보관 |
-| 25 | 지역 고용통계 | 경인지방데이터청 | A | 인천 노동시장 배경 | [공식 통계자료](https://mods.go.kr/board.es?act=view&bid=5106&list_no=434795&mid=a30301010100&ref_bid=&tag=) | 미보관 |
-
-## 4. 시흥 공식 통계·정책·지역자료
-
-| No. | 자료·사이트 | 기관 | 등급 | 사용 내용 | 외부 URL | 로컬 파일·코드 |
-|---:|---|---|:---:|---|---|---|
-| 26 | 2025년 4분기 시흥지역 산업단지 동향 | 시흥상공회의소 | A | 인구·고용보험·스마트허브·시화MTV 31개 지표 | [공식 게시물](https://shiheungcci.korcham.net/front/board/boardContentsView.do?boardId=10499&contId=126104&menuId=2845) | [HWP](sources/siheung/siheung_industrial_complex_2025_q4.hwp), `SH_IND_2025Q4` |
-| 27 | 시흥시 기본통계·통계연보 | 시흥시·공공데이터포털 | A | 후속 인구·산업 통계 조사경로 | [데이터](https://www.data.go.kr/data/3034605/fileData.do?recommendDataYn=Y) | 미보관 |
-| 28 | 시흥시 연도별 통계 | 시흥시 | A | 시계열 통계 탐색 | [공식 사이트](https://www.siheung.go.kr/main/annualStatistics/view.do?mId=0306100200&idx=13) | 미보관 |
-| 29 | 시흥 스토리맵 | 시흥시 | A | 지역자산·장소·역사 1차 목록 | 시흥시 배포자료 | [PDF](sources/siheung/siheung_story_map.pdf) |
-| 30 | 제1차 탄소중립·녹색성장 기본계획 | 시흥시 | A | 생태·환경 정책과 부정영향 검토 | 시흥시 배포자료 | [PDF](sources/siheung/siheung_carbon_neutral_plan_2025.pdf) |
-| 33 | 갯골생태공원 소개 | 경기도 뉴스포털 | A/C | 옛 염전 부지, 내만갯골, 소금창고 확인 | [경기도](https://gnews.gg.go.kr/news/news_detail.do?number=202603230906525375C094&s_code=C094) | 미보관 |
-| 34 | 시화나래 생태여행 스토리텔링북 | 물정보포털 | A | 습지보호지역·염전·소금생산 체험의 공공 설명 | [PDF](https://www.water.or.kr/site/kor/file/ecotour/swstfull.pdf) | 외부 원문 |
-
-## 5. 관광·상권·산업 데이터 탐색 사이트
-
-| No. | 사이트 | 운영기관 | 등급 | 사용 목적 | URL |
-|---:|---|---|:---:|---|---|
-| 35 | 한국관광 데이터랩 | 한국관광공사 | A | 방문·체류·관광행동 후속조사 | [사이트](https://datalab.visitkorea.or.kr/) |
-| 36 | 한국관광 데이터랩 자료집 | 한국관광공사 | A | 관광데이터 이용방법 | 로컬 [PDF](sources/common/korea_tourism_datalab_vol25.pdf) |
-| 37 | 시흥 추천여행 코스 | 한국관광공사 | A/C | 기존 갯골–오이도 코스 중복 확인 | [사이트](https://access.visitkorea.or.kr/cos/detail.do?cotId=6f5e0114-2c7c-47dd-ad59-c36209f9b422) |
-| 38 | KOSIS | 통계청 | A | 인구·사업체·고용 후속통계 | [사이트](https://kosis.kr/) |
-| 39 | 공공데이터포털 | 행정안전부·NIA | A | 지역 장소·행사·통계 데이터 탐색 | [사이트](https://www.data.go.kr/) |
-| 40 | 한국산업단지공단 산업단지통계 | 한국산업단지공단 | A | 산단 현황과 시계열 후속조사 | [사이트](https://kicox.or.kr/boardList/1020?searchCategory=18) |
-| 41 | 소상공인 상권정보시스템 | 소상공인시장진흥공단 | A/D | 상권·업종 후속검증 | [사이트](https://sg.sbiz.or.kr/) |
-
-## 6. 언론기사와 보조자료
-
-| No. | 자료 | 유형·등급 | 사용 목적 | URL | 주의 |
-|---:|---|:---:|---|---|---|
-| 42 | 인천 청년, 수는 줄어도 내실 | 기사 C | 청년통계 보조 설명 | [기사](https://v.daum.net/v/20260129103925118) | 공식 청년통계를 우선 인용 |
-| 43 | 인천시 청년정책 5년 청사진 | 기사 C | 청년 구직 어려움 쟁점 | [기사](https://v.daum.net/v/20260203171502414) | 여가·문화문제의 근거가 아님 |
-| 44 | 인천 관광 방문 증가·체류 한계 보도 | 기사 C | 방문과 체류를 구분할 필요 | [기사](https://v.daum.net/v/20260610203506755) | 원 통계 확인 전 보조근거로만 사용 |
-| 45 | 시흥시 오이도–갯골 시티투어 | 경향신문 C | 기존 관광코스 존재 확인 | [기사](https://www.khan.co.kr/article/201904111951005) | 현재 운영 여부 별도 확인 필요 |
-
-## 7. 로컬 원문 파일 전수 목록
-
-| No. | 파일 | 자료 성격 | 연결된 출처 |
-|---:|---|---|---|
-| 1 | `sources/incheon/incheon_youth_statistics.pdf` | 인천 청년통계 | 인천광역시 |
-| 2 | `sources/incheon/incheon_2025_major_plan.pdf` | 주요업무계획 | 인천광역시 |
-| 3 | `sources/incheon/incheon_foreign_tourism_policy_2025.pdf` | 관광정책 연구 | 인천연구원 |
-| 4 | `sources/siheung/siheung_industrial_complex_2025_q4.hwp` | 산업단지 동향 | 시흥상공회의소 |
-| 5 | `sources/siheung/siheung_story_map.pdf` | 지역자산 지도 | 시흥시 |
-| 6 | `sources/siheung/siheung_carbon_neutral_plan_2025.pdf` | 환경정책 | 시흥시 |
-| 7 | `sources/siheung/sorae_salt_warehouse_historical_research.pdf` | 염전문화 고증 | 경기도메모리 |
-| 8 | `sources/common/korea_tourism_datalab_vol25.pdf` | 관광데이터 이용자료 | 한국관광공사 |
-| 9 | `sources/papers/krihs_2012_asset_based_community_activation.pdf` | 자산매핑 논문 | 국토연구원·KCI |
-| 10 | `sources/papers/ksas_2009_regional_archiving.pdf` | 지역 아카이빙 논문 | 한국기록학회·KCI |
-| 11 | `sources/papers/kslis_2024_port_city_regeneration_documentation.pdf` | 항만도시 기록화 논문 | 한국문헌정보학회·KCI |
-| 12 | `sources/papers/kbiblia_2020_library_urban_regeneration.pdf` | 도서관·도시재생 논문 | 한국비블리아학회·KCI |
-| 13 | `sources/papers/dhital_2023_participatory_asset_mapping.pdf` | 참여형 매핑 논문 | UCL |
-| 14 | `sources/papers/ko_2025_sihwa_lake_30_years.pdf` | 시화호 환경전환 논문 | 서울대 인문논총·KCI |
-| 15 | `sources/papers/kwak_2009_labor_archives.pdf` | 노동 아카이브 논문 | 한국기록학회·KCI |
-| 16 | `sources/papers/choi_2011_social_memory_oral_records.pdf` | 구술기록 논문 | 한국기록학회·KCI |
-| 17 | `sources/common/abcd_local_asset_download_error.txt` | 내려받기 실패 기록 | 파일이 정상 PDF가 아님을 기록 |
-
-## 8. 데이터 코드와 산식
-
-| 코드 | 원자료 | 지표 범위 | 주의 |
+| 코드 | 자료 | 사용 | 링크 |
 |---|---|---|---|
-| `IC_YOUTH_2024` | 인천 2024 청년통계 | CSV 1~11 | 18~39세 |
-| `IC_YOUTH_2020` | 인천 2020 청년통계 | CSV 12~34 | 19~39세, 2024와 직접 비교 금지 |
-| `SH_IND_2025Q4` | 시흥 2025년 4분기 산업단지 동향 | CSV 35~65 | 일부 웹 본문 오기 가능성, 총계 검산 필요 |
+| IC-OPEN-01 | 개항장 근현대문화유산 활용 활성화 방안 | 운영주체 분산·연계 필요 | [인천연구원](https://www.ii.re.kr/base/board/read?boardManagementNo=14&boardNo=18130) |
+| IC-OPEN-02 | 개항장 장소자산 스토리텔링 연구 | 체계적 서사조사 필요 | [인천연구원](https://www.ii.re.kr/base/board/read?boardManagementNo=14&boardNo=15237) |
+| IC-OPEN-03 | 인천 정책로드맵 2040 | 상인참여·시그니처 상품 | [공식 원문](https://www.ii.re.kr/base/linked/report/preview?atchSeq=1&boardNo=18583&div=A1&projcd=1024GH0065&seq=3) |
+| IC-OPEN-04 | 개항장 보행친화 가로 구상 | 공공영역과 스타트업 역할 구분 | [PDF](https://www.ii.re.kr/storage/report/BB0000006078.pdf) |
+| IC-OPEN-05 | 내항·개항장 공간재생 전략 | 노후·접근성 구조문제 | [PDF](https://hanzhong.ii.re.kr/storage/report/BB0000005830.pdf) |
+| IC-OPEN-06 | 인천 외래관광객 정책 방향 | 개항장·원도심 관광정책 배경 | [로컬 PDF](sources/incheon/incheon_foreign_tourism_policy_2025.pdf) |
 
-문서 계산값:
+## 2. MICE·B2B 시장접점
 
-- 시흥 두 산업지역 고용 합계 = 116,093 + 15,230 = 131,323명
-- 시흥 두 산업지역 입주업체 합계 = 11,381 + 1,380 = 12,761개
+| 코드 | 자료 | 사용·한계 | 링크 |
+|---|---|---|---|
+| IC-MICE-01 | 2024 인천 MICE 통계 | 6,827건·320만 명; 상품시장으로 환산 금지 | [인천시](https://www.incheon.go.kr/IC010205/view?curPage=1&repSeq=DOM_0000000012371500) |
+| IC-MICE-02 | 2024 코리아 마이스 엑스포 | 3천 명·상담 4천 건; 단일행사 사례 | [인천시](https://www.incheon.go.kr/IC010205/view?curPage=173&repSeq=DOM_0000000011115777) |
+| IC-MICE-03 | 인천관광공사 조직업무 | MICE 참가자 환대서비스·개최지원 확인 | [공식 페이지](https://www.ito.or.kr/main/organization/organizationStaffList.do?staffAll=1) |
+| IC-MICE-04 | 인천관광공사 중장기 목표 | MICE·관광기업·지역콘텐츠 정책방향 | [공식 페이지](https://www.ito.or.kr/main/introduce/mission.jsp) |
+| IC-MICE-05 | 2026 MICE 얼라이언스 | 민관 네트워크 존재 | [인천시](https://www.incheon.go.kr/IC010205/view?curPage=13&repSeq=DOM_0000000014442331) |
+| MICE-06 | 한국 MICE 산업통계 조사보고서 목록 | 행사·참가자·산업체 통계의 국가 조사체계 확인 | [한국관광공사](https://k-mice.visitkorea.or.kr/convention_kr/pds/pds6_sub1.jsp) |
+| MICE-07 | MICE 통계보고서 신청 | 산업통계·참가자조사·경제효과의 구분 확인 | [한국관광공사](https://k-mice.visitkorea.or.kr/statist.kto?func_name=micestatistics) |
+| MICE-08 | 2021 MICE 산업통계 조사연구 | 행사 개최실적과 사업체 매출·고용의 조사단위 구분 | [공개 PDF](https://k-mice.visitkorea.or.kr/convention_kr/pds/e_book/2021/2021_MICE_SURVEY_file1.pdf) |
 
-## 9. 인용과 갱신 원칙
+## 3. 관광상품·판로·지원
 
-1. 수치는 원문 기관명, 기준시점, 단위와 연령정의를 함께 표기한다.
-2. 기사는 해당 기사가 재인용한 통계의 원문을 확인한 뒤 사용한다.
-3. 해외·타 지역 논문은 인천·시흥의 효과를 증명하는 자료가 아니라 연구방법과 가설의 근거로 사용한다.
-4. 외부 URL이 변경되더라도 검증할 수 있도록 허용된 공개 원문은 로컬 파일로 보관한다.
-5. 로컬 파일명, 외부 URL, 문서 내 인용표현을 함께 관리한다.
-6. 현장 인터뷰·설문이 시작되면 조사일, 장소, 동의상태, 연구자와 익명화 여부를 별도 조사대장에 기록한다.
+| 코드 | 자료 | 사용 | 링크 |
+|---|---|---|---|
+| IC-PROD-01 | 2023 관광 팝업 입점기업 모집 | 상시판매·IP·관광연관·상품유형 요건 | [공식 공고](https://tourbiz.ito.or.kr/info/notice/detail?noticeIdx=255) |
+| IC-SUP-01 | 2026 인천 관광스타트업 | 로컬IP·기념품·지역특화, 15개사·최대 3,800만원 | [인천시](https://www.incheon.go.kr/IC010205/view?curPage=1&repSeq=DOM_0000000014270239) |
+| IC-SUP-02 | 2026 관광기업지원센터 입주 | 관광·MICE 기업 6개사 | [인천관광공사](https://www.ito.or.kr/main/bbs/bbsMsgDetail.do?bcd=notice&cate1=02&msg_seq=1013&pgno=26) |
+| SUP-03 | 제18회 예비관광벤처 | 미등록 예비창업자 경로 | [투어라즈](https://touraz.kr/announcementList/pssrpView?curPage=1&pssrpSeqEnc=AFW1uSgdS4Ajj%2AZQp7UAJw%3D%3D) |
+| SUP-04 | 로컬크리에이터 2025 | 제도유형 참고; 차기 금액 재확인 | [중기부 PDF](https://www.mss.go.kr/common/board/Download.do?bcIdx=1056422&cbIdx=160&streFileNm=33a98df6-d9e4-4096-801c-e3bf61b88ff4.pdf) |
+| SUP-05 | TIPS 개요 | 현재 부적합 판단 | [공식 안내](https://www.jointips.or.kr/about.php) |
+
+## 4. 관광기념품·상품 벤치마크
+
+| 코드 | 자료 | 사용·한계 | 링크 |
+|---|---|---|---|
+| KTO-PROD-01 | 대한민국 관광공모전 기념품부문 역대 수상작 | 1,978개 상품의 유형·가격·표현방식 벤치마크; 개항장 수요 증거는 아님 | [한국관광공사](https://kto.visitkorea.or.kr/kor/souvenir/award/allAwardInfo.kto?lang=KOR) |
+| KTO-PROD-02 | 2025 관광기념품 공모전 최종 수상작 | 25개 선정과 전시 사례; 선정품과 B2B 발주품은 구분 | [한국관광공사](https://kto.visitkorea.or.kr/kor/souvenir/news/noticeView.kto?searchId=371) |
+| KTO-PROD-03 | 2026 관광기념품 공모전 공지 | 최신 공모 일정과 요건 확인 경로 | [한국관광공사](https://kto.visitkorea.or.kr/kor/souvenir/news/noticeList.kto) |
+| KTO-PROD-04 | 2026 대한민국 관광기념품 박람회 | 백화점·문화유산·박물관·공예기관 등 유통 협력 생태계 사례 | [한국관광공사](https://kto.visitkorea.or.kr/kor/souvenir/exhb/exhbIntro.kto) |
+| KTO-PROD-05 | 2025 수상 식품 사례 | 지역서사와 식품을 결합한 상품표현 참고 | [한국관광공사](https://kto.visitkorea.or.kr/kor/souvenir/award/allAwardInfoView.kto?searchId=2034) |
+| KTO-PROD-06 | 달성군 관광기념품 공모 사례 | 지역 상징성·판매가능성·지식재산 책임 요건 참고; 타지역 사례 | [관광인](https://academy.visitkorea.or.kr/macademy/notice/bbs/detail.do?seq=2942) |
+
+## 5. 제품 안전·표시·조달
+
+| 코드 | 자료 | 사용·한계 | 링크 |
+|---|---|---|---|
+| LAW-FOOD-01 | 식품 등의 표시·광고에 관한 법률 시행규칙 | 식품 구성 시 최신 표시의무 확인 | [국가법령정보센터](https://www.law.go.kr/LSW/lsInfoP.do?ancYnChk=0&chrClsCd=010202&efYd=20260101&lsiSeq=267855&urlMode=lsInfoP) |
+| LAW-FOOD-02 | 표시방법 별표 3 | 최소 판매단위 포장 표시 원칙 확인 | [공식 별표](https://law.go.kr/LSW/flDownload.do?bylClsCd=110201&flSeq=147344923) |
+| LAW-FOOD-03 | 부당한 표시 또는 광고 내용 기준 | 상품카드·웹 설명의 금지표현 점검 | [국가법령정보센터](https://www.law.go.kr/LSW/admRulInfoP.do?admRulSeq=2100000269428&chrClsCd=010201) |
+| LAW-FOOD-04 | 식품 오인·혼동 광고 법령해석 | 건강효과 등 과장표현 방지 참고 | [국가법령정보센터](https://www.law.go.kr/LSW/cgmExpcInfoP.do?cgmExpcDatSeq=422650&mode=2&ofiClsCd=350123) |
+| PPS-01 | 2026년 조달청 업무계획 | 창업·벤처기업의 공공조달 진입 지원정책 확인; 구매수요 증거는 아님 | [조달청](https://www.pps.go.kr/kor/content.do?key=00647) |
+| PPS-02 | 공공조달 길잡이 | 시장진입·등록·단계별 상담 경로 확인 | [조달청](https://www.pps.go.kr/kor/bbs/list.do?key=01325) |
+
+## 6. 방법론·선행연구
+
+| 코드 | 논문 | 사용 | 원문 |
+|---|---|---|---|
+| M-01 | 자산지도화기법 활용 사례 | 상점·상품·사람·검증지도 | [PDF](sources/papers/krihs_2012_asset_based_community_activation.pdf) |
+| M-02 | Participatory asset mapping | 자산의 부정영향·접근장벽 | [PDF](sources/papers/dhital_2023_participatory_asset_mapping.pdf) |
+| M-03 | 지역 아카이빙 기록화 | 민간기록·동의·지역성 | [PDF](sources/papers/ksas_2009_regional_archiving.pdf) |
+| M-04 | 항만도시재생 기록화 요소 | 교역·산업·참여·변화 | [PDF](sources/papers/kslis_2024_port_city_regeneration_documentation.pdf) |
+| P-01 | Shen·Lai(2022), 관광기념품 체계적 문헌고찰 | 상품·사회문화효과·사업생태계·구매행동·만족의 5개 연구축 | [DOI](https://doi.org/10.1177/21582440221106734) |
+| P-02 | Huang 외(2025), 전통문화 부하와 구매의도 | 문화요소·인지가치·구매목적을 제품실험으로 검증; 중국 실험의 국내 일반화 금지 | [PLOS ONE](https://doi.org/10.1371/journal.pone.0313905) |
+| P-03 | Xie·Wu·Hsieh(2012), 원주민 기념품 진정성 | 현대적 디자인과 문화표지의 결합 가능성; 대만 사례 | [DOI](https://doi.org/10.1080/10548408.2012.691400) |
+| P-04 | 강민지·전성복(2007), 관광기념품 활성화 | 색상·실용성·품질·휴대·보관을 구매 고려요인으로 제시 | [KCI](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001201729) |
+| P-05 | 이경주·김보연(2020), 한국 관광이미지 기념품 | 여행경험을 상기시키는 기념품 방향 | [KCI](https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002637490) |
+| P-06 | 김세웅(2023), 지역 관광기념품 그래픽디자인 | 어디서나 살 수 있는 획일적 전통표현의 한계 | [KCI](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002942460) |
+| P-07 | 저복봉·정원준(2024), 도시문화 관광상품 비교 | 지역 역사·문화유산과 도시브랜드 연결 | [KCI](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003092953) |
+| P-08 | Anastasiadou·Vettese(2021), 기념품 진정성 | 제작기술 변화 속 진정성 판단 논점 | [DOI](https://doi.org/10.1016/j.annals.2021.103188) |
+
+## 7. 로컬 보관파일
+
+| No. | 파일 | 상태 |
+|---:|---|---|
+| 1 | `sources/incheon/incheon_foreign_tourism_policy_2025.pdf` | 정상 PDF |
+| 2 | `sources/papers/krihs_2012_asset_based_community_activation.pdf` | 정상 PDF |
+| 3 | `sources/papers/dhital_2023_participatory_asset_mapping.pdf` | 정상 PDF |
+| 4 | `sources/papers/ksas_2009_regional_archiving.pdf` | 정상 PDF |
+| 5 | `sources/papers/kslis_2024_port_city_regeneration_documentation.pdf` | 정상 PDF |
+| 6 | `sources/papers/huang_et_al_2025_cultural_load_souvenir.pdf` | 정상 PDF·오픈액세스 |
+| 7 | `data/incheon_b2b_evidence.csv` | 정량근거 12개 지표 |
+
+## 8. 해석·갱신 원칙
+
+1. 기관·기준연도·단위·산식을 함께 표기한다.
+2. MICE 참가자를 로컬기프트 구매자로 간주하지 않는다.
+3. 가격·수량·마진은 공식통계가 아니라 검증가설로 표시한다.
+4. 상품·상점명은 공급·콘텐츠 동의 후 공개한다.
+5. 실제 견적·발주·납품자료는 개인정보와 영업정보를 분리해 보관한다.
+6. 사용하지 않는 오류·중복·구방향 자료는 아카이브에 남기지 않는다.
+7. 타지역·해외 연구는 제품설계 가설에만 쓰고 인천의 구매수요로 일반화하지 않는다.

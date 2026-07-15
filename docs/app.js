@@ -2,19 +2,18 @@
   "use strict";
 
   const sections = [
-    { label: "연구 개요", items: [
-      ["integrated_research_paper.html", "통합 연구보고서"],
-      ["regional_cultural_regeneration_proposal.html", "연구 제안"],
+    { label: "사업 개요", items: [
+      ["integrated_research_paper.html", "통합 사업보고서"]
+    ]},
+    { label: "사업화", items: [
+      ["incheon_project_wbs.html", "실행·지원사업"]
+    ]},
+    { label: "대회 기준", items: [
       ["competition_purpose_and_project_direction.html", "대회 목적과 연구설계"],
       ["mandatory_project_requirements.html", "과제 필수 요건"]
     ]},
-    { label: "지역 대안", items: [
-      ["incheon_only.html", "인천 단독"],
-      ["siheung_only.html", "시흥 단독"],
-      ["incheon_siheung_linked.html", "인천–시흥 연계"]
-    ]},
     { label: "근거 자료", items: [
-      ["quantitative_evidence_and_articles.html", "정량자료·기사"],
+      ["quantitative_evidence_and_articles.html", "시장·정량근거"],
       ["related_papers_review.html", "선행연구 검토"],
       ["source_registry.html", "전체 출처대장"]
     ]}
@@ -41,7 +40,7 @@
   shell.className = "app-header";
   shell.innerHTML = `<div class="app-header-inner">
     <a class="app-brand" href="integrated_research_paper.html" aria-label="통합 연구보고서 홈">
-      <span>지역문화 재생 연구</span><small>INCHEON · SIHEUNG</small>
+      <span>개항장 로컬기프트 연구</span><small>INCHEON B2B LOCAL GIFT</small>
     </a>
     <button class="app-menu-toggle" type="button" aria-expanded="false" aria-controls="app-navigation">
       <span>메뉴</span><i aria-hidden="true"></i>
@@ -85,5 +84,41 @@
       });
     }
   });
+
+  const referenceIds = new Set(
+    [...document.querySelectorAll('[id^="r"]')]
+      .map((element) => element.id)
+      .filter((id) => /^r\d+$/.test(id))
+  );
+  if (referenceIds.size) {
+    const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT);
+    const citationNodes = [];
+    while (walker.nextNode()) {
+      const parent = walker.currentNode.parentElement;
+      if (parent && !parent.closest("a, script, style, code, pre") && /\[\d+\]/.test(walker.currentNode.nodeValue)) {
+        citationNodes.push(walker.currentNode);
+      }
+    }
+    citationNodes.forEach((node) => {
+      const parts = node.nodeValue.split(/(\[\d+\])/g);
+      const fragment = document.createDocumentFragment();
+      parts.forEach((part) => {
+        const match = part.match(/^\[(\d+)\]$/);
+        if (!match || !referenceIds.has(`r${match[1]}`)) {
+          fragment.append(part);
+          return;
+        }
+        const reference = document.getElementById(`r${match[1]}`);
+        const link = document.createElement("a");
+        link.href = `#r${match[1]}`;
+        link.className = "citation-link";
+        link.textContent = part;
+        link.title = reference.textContent.trim().replace(/\s+/g, " ").slice(0, 140);
+        link.setAttribute("aria-label", `참고문헌 ${match[1]}로 이동`);
+        fragment.append(link);
+      });
+      node.replaceWith(fragment);
+    });
+  }
 
 })();

@@ -24,5 +24,7 @@
   .app-location{display:flex;gap:8px;padding:6px 12px;background:#f6f6f3;border-top:1px solid #e5e5e1;color:#3f3f3f;font-size:11px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.app-location span{color:#777}.app-header+.paper,.app-header+.wrap{margin-top:25px}
 }
 @media print{.app-header{display:none!important}}
+.citation-link{margin:0 .08em;color:#1b4f8a!important;font-family:Pretendard,"Noto Sans KR",sans-serif;font-size:.86em;font-weight:700;text-decoration:none!important;vertical-align:super}.citation-link:hover,.citation-link:focus{text-decoration:underline!important;text-underline-offset:3px}.references li:target{scroll-margin-top:95px;background:#fff4c7;outline:4px solid #fff4c7}
 @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
 @view-transition{navigation:auto}
+.report-visual{margin:26px 0;font-family:Pretendard,"Noto Sans KR",sans-serif}.report-visual img{display:block;width:100%;height:auto;border:1px solid #aaa;background:#faf9f6}.report-visual figcaption{margin-top:9px;color:#595959;font-size:12px;line-height:1.6;text-align:left}.report-visual.hero img{aspect-ratio:16/9;object-fit:cover}
