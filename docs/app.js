@@ -5,9 +5,6 @@
     { label: "사업 개요", items: [
       ["integrated_research_paper.html", "통합 사업보고서"]
     ]},
-    { label: "사업화", items: [
-      ["incheon_project_wbs.html", "실행·지원사업"]
-    ]},
     { label: "대회 기준", items: [
       ["competition_purpose_and_project_direction.html", "대회 목적과 연구설계"],
       ["mandatory_project_requirements.html", "과제 필수 요건"]
