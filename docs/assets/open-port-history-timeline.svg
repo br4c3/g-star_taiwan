@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">인천 개항장 주요 역사 연표</title>
+  <desc id="desc">1883년 제물포 개항부터 1904년 제물포 해전까지 주요 사건을 시간순으로 보여준다.</desc>
+  <rect width="1200" height="360" fill="#f8f7f3"/>
+  <text x="60" y="54" font-family="sans-serif" font-size="27" font-weight="700" fill="#1f2933">인천 개항장 주요 역사 연표</text>
+  <text x="60" y="82" font-family="sans-serif" font-size="15" fill="#59636e">개항은 교류와 근대문물의 유입뿐 아니라 강제개항·조계·제국주의 경쟁이 겹친 과정이었다.</text>
+  <line x1="90" y1="180" x2="1110" y2="180" stroke="#354b5e" stroke-width="4"/>
+  <g font-family="sans-serif" text-anchor="middle">
+    <g transform="translate(110 180)"><circle r="10" fill="#b2483d"/><line y1="-12" y2="-54" stroke="#b2483d" stroke-width="2"/><text y="-72" font-size="20" font-weight="700" fill="#17232d">1883</text><text y="-48" font-size="14" fill="#35404a">제물포 개항</text><text y="28" font-size="13" fill="#59636e">일본조계</text></g>
+    <g transform="translate(255 180)"><circle r="9" fill="#b2483d"/><line y1="12" y2="56" stroke="#b2483d" stroke-width="2"/><text y="82" font-size="20" font-weight="700" fill="#17232d">1884</text><text y="104" font-size="13" fill="#35404a">청국·각국조계</text><text y="122" font-size="13" fill="#35404a">세창양행</text></g>
+    <g transform="translate(435 180)"><circle r="9" fill="#346b73"/><line y1="-12" y2="-54" stroke="#346b73" stroke-width="2"/><text y="-72" font-size="20" font-weight="700" fill="#17232d">1892</text><text y="-48" font-size="13" fill="#35404a">전환국 이전</text></g>
+    <g transform="translate(605 180)"><circle r="9" fill="#346b73"/><line y1="12" y2="56" stroke="#346b73" stroke-width="2"/><text y="82" font-size="20" font-weight="700" fill="#17232d">1899</text><text y="104" font-size="13" fill="#35404a">경인선 개통</text></g>
+    <g transform="translate(760 180)"><circle r="9" fill="#346b73"/><line y1="-12" y2="-54" stroke="#346b73" stroke-width="2"/><text y="-72" font-size="20" font-weight="700" fill="#17232d">1901</text><text y="-48" font-size="13" fill="#35404a">제물포구락부</text></g>
+    <g transform="translate(910 180)"><circle r="9" fill="#82683e"/><line y1="12" y2="56" stroke="#82683e" stroke-width="2"/><text y="82" font-size="20" font-weight="700" fill="#17232d">1902</text><text y="104" font-size="13" fill="#35404a">첫 공식 하와이</text><text y="122" font-size="13" fill="#35404a">이민단 출발</text></g>
+    <g transform="translate(1080 180)"><circle r="10" fill="#b2483d"/><line y1="-12" y2="-54" stroke="#b2483d" stroke-width="2"/><text y="-72" font-size="20" font-weight="700" fill="#17232d">1904</text><text y="-48" font-size="13" fill="#35404a">제물포 해전</text></g>
+  </g>
+  <text x="60" y="330" font-family="sans-serif" font-size="13" fill="#68727c">출처: 인천광역시립박물관·한국이민사박물관·국가유산포털·인천광역시 역사자료</text>
+</svg>

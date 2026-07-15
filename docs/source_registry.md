@@ -2,7 +2,7 @@
 
 **기준일:** 2026년 7월 15일
 
-**원칙:** 공식·학술자료는 지역성·정책·시장접점·제품설계·법적 요건의 근거로 사용하며 B2B 구매수요는 별도 검증한다. 현재 대장은 공식자료 27건, 학술자료 12건, 로컬 보관 원문 6건을 관리한다.
+**원칙:** 공식·학술자료는 지역성·역사·정책·시장접점·제품설계·법적 요건의 근거로 사용하며 B2B 구매수요는 별도 검증한다. 판매자 페이지의 가격은 시장 관찰값으로만 사용한다. 현재 대장은 공식·공공자료 43건, 학술자료 12건, 로컬 판매자 자료 1건, 로컬 보관 원문 6건을 관리한다.
 
 ## 1. 개항장 지역성·정책
 
@@ -15,7 +15,22 @@
 | IC-OPEN-05 | 내항·개항장 공간재생 전략 | 노후·접근성 구조문제 | [PDF](https://hanzhong.ii.re.kr/storage/report/BB0000005830.pdf) |
 | IC-OPEN-06 | 인천 외래관광객 정책 방향 | 개항장·원도심 관광정책 배경 | [로컬 PDF](sources/incheon/incheon_foreign_tourism_policy_2025.pdf) |
 
-## 2. MICE·B2B 시장접점
+## 2. 개항장 역사 사료
+
+| 코드 | 자료 | 확인 사실·사용 | 링크 |
+|---|---|---|---|
+| IC-HIS-01 | 인천개항장(인천조계)의 찰나 | 강화도조약과 1883년 개항 | [인천시립박물관](https://www.incheon.go.kr/museum/MU06110101/2048729) |
+| IC-HIS-02 | 각국조계석 유물해설 | 1883 일본조계, 1884 청국·각국조계와 제국주의적 성격 | [인천시립박물관](https://www.incheon.go.kr/museum/MU010308/2066312) |
+| IC-HIS-03 | 세창양행 상표 | 1884 독일계 무역상사와 초기 상품상표 | [인천시립박물관](https://www.incheon.go.kr/museum/MU010308/2204132) |
+| IC-HIS-04 | 인천에서 태어난 전(錢) | 1892~1900 전환국과 다섯 종류 주화 | [인천시립박물관](https://www.incheon.go.kr/museum/MU010308/2199495) |
+| IC-HIS-05 | 경인선 개통 당시 승객모습 | 1899 경인선 개통 사진자료 | [인천광역시](https://www.incheon.go.kr/IC040316/1518853) |
+| IC-HIS-06 | 구 제물포구락부 | 1901년 건립·국가유산 기본정보 | [국가유산포털](https://www.heritage.go.kr/heri/cul/culSelectDetail.do?VdkVgwKey=21%2C00170000%2C23&pageNo=1_1_1_0) |
+| IC-HIS-07 | 한국이민사박물관 제1전시실 | 1902년 12월 22일 첫 공식 이민단 121명 출발 | [한국이민사박물관](https://www.incheon.go.kr/museum/MU040201) |
+| IC-HIS-08 | 바리야크호 깃발 | 1904년 제물포 해전과 제국주의 전쟁 | [인천시립박물관](https://www.incheon.go.kr/museum/MU010308/2066307) |
+| IC-HIS-09 | 인천 근대지도 1883~1945 | 조계·항만·매립·시가지 변화의 공간검증 | [인천시립박물관](https://www.incheon.go.kr/museum/MU010501/3019041) |
+| IC-HIS-10 | 개항일 표기의 역사 | 1월 1일 표기와 실질 개항일 추정 차이 | [굿모닝인천](https://www.incheon.go.kr/goodmorning/GOOD010501/view?curPage=&nttNo=2042157&srchCategoryCode=&srchKey=&srchPblicteIssnoCode=&srchWord=) |
+
+## 3. MICE·B2B 시장접점
 
 | 코드 | 자료 | 사용·한계 | 링크 |
 |---|---|---|---|
@@ -28,18 +43,19 @@
 | MICE-07 | MICE 통계보고서 신청 | 산업통계·참가자조사·경제효과의 구분 확인 | [한국관광공사](https://k-mice.visitkorea.or.kr/statist.kto?func_name=micestatistics) |
 | MICE-08 | 2021 MICE 산업통계 조사연구 | 행사 개최실적과 사업체 매출·고용의 조사단위 구분 | [공개 PDF](https://k-mice.visitkorea.or.kr/convention_kr/pds/e_book/2021/2021_MICE_SURVEY_file1.pdf) |
 
-## 3. 관광상품·판로·지원
+## 4. 관광상품·판로·지원
 
 | 코드 | 자료 | 사용 | 링크 |
 |---|---|---|---|
 | IC-PROD-01 | 2023 관광 팝업 입점기업 모집 | 상시판매·IP·관광연관·상품유형 요건 | [공식 공고](https://tourbiz.ito.or.kr/info/notice/detail?noticeIdx=255) |
+| IC-PROD-02 | 인더로컬 인천 로컬상품 목록 | 2026-07-15 표시 소비자가 비교; 재고·도매가·B2B 공급능력 증거는 아님 | [판매자 페이지](https://inthelocal.co.kr/PBGoods) |
 | IC-SUP-01 | 2026 인천 관광스타트업 | 로컬IP·기념품·지역특화, 15개사·최대 3,800만원 | [인천시](https://www.incheon.go.kr/IC010205/view?curPage=1&repSeq=DOM_0000000014270239) |
 | IC-SUP-02 | 2026 관광기업지원센터 입주 | 관광·MICE 기업 6개사 | [인천관광공사](https://www.ito.or.kr/main/bbs/bbsMsgDetail.do?bcd=notice&cate1=02&msg_seq=1013&pgno=26) |
 | SUP-03 | 제18회 예비관광벤처 | 미등록 예비창업자 경로 | [투어라즈](https://touraz.kr/announcementList/pssrpView?curPage=1&pssrpSeqEnc=AFW1uSgdS4Ajj%2AZQp7UAJw%3D%3D) |
 | SUP-04 | 로컬크리에이터 2025 | 제도유형 참고; 차기 금액 재확인 | [중기부 PDF](https://www.mss.go.kr/common/board/Download.do?bcIdx=1056422&cbIdx=160&streFileNm=33a98df6-d9e4-4096-801c-e3bf61b88ff4.pdf) |
 | SUP-05 | TIPS 개요 | 현재 부적합 판단 | [공식 안내](https://www.jointips.or.kr/about.php) |
 
-## 4. 관광기념품·상품 벤치마크
+## 5. 관광기념품·상품 벤치마크
 
 | 코드 | 자료 | 사용·한계 | 링크 |
 |---|---|---|---|
@@ -49,8 +65,9 @@
 | KTO-PROD-04 | 2026 대한민국 관광기념품 박람회 | 백화점·문화유산·박물관·공예기관 등 유통 협력 생태계 사례 | [한국관광공사](https://kto.visitkorea.or.kr/kor/souvenir/exhb/exhbIntro.kto) |
 | KTO-PROD-05 | 2025 수상 식품 사례 | 지역서사와 식품을 결합한 상품표현 참고 | [한국관광공사](https://kto.visitkorea.or.kr/kor/souvenir/award/allAwardInfoView.kto?searchId=2034) |
 | KTO-PROD-06 | 달성군 관광기념품 공모 사례 | 지역 상징성·판매가능성·지식재산 책임 요건 참고; 타지역 사례 | [관광인](https://academy.visitkorea.or.kr/macademy/notice/bbs/detail.do?seq=2942) |
+| B2B-PRICE-01 | 리피트 상품 안내 Version 2.1(2025) | 소비자가·도매가·MOQ·VAT·포장 조건의 분리 사례; 타지역 타월 가격을 개항장에 전용하지 않음 | [공개 PDF](https://festival.kcef2025.com/images/exhibition/pdf_all/05_kor.pdf) |
 
-## 5. 제품 안전·표시·조달
+## 6. 제품 안전·표시·조달
 
 | 코드 | 자료 | 사용·한계 | 링크 |
 |---|---|---|---|
@@ -61,7 +78,7 @@
 | PPS-01 | 2026년 조달청 업무계획 | 창업·벤처기업의 공공조달 진입 지원정책 확인; 구매수요 증거는 아님 | [조달청](https://www.pps.go.kr/kor/content.do?key=00647) |
 | PPS-02 | 공공조달 길잡이 | 시장진입·등록·단계별 상담 경로 확인 | [조달청](https://www.pps.go.kr/kor/bbs/list.do?key=01325) |
 
-## 6. 방법론·선행연구
+## 7. 방법론·선행연구
 
 | 코드 | 논문 | 사용 | 원문 |
 |---|---|---|---|
@@ -78,7 +95,7 @@
 | P-07 | 저복봉·정원준(2024), 도시문화 관광상품 비교 | 지역 역사·문화유산과 도시브랜드 연결 | [KCI](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003092953) |
 | P-08 | Anastasiadou·Vettese(2021), 기념품 진정성 | 제작기술 변화 속 진정성 판단 논점 | [DOI](https://doi.org/10.1016/j.annals.2021.103188) |
 
-## 7. 로컬 보관파일
+## 8. 로컬 보관파일
 
 | No. | 파일 | 상태 |
 |---:|---|---|
@@ -90,7 +107,7 @@
 | 6 | `sources/papers/huang_et_al_2025_cultural_load_souvenir.pdf` | 정상 PDF·오픈액세스 |
 | 7 | `data/incheon_b2b_evidence.csv` | 정량근거 12개 지표 |
 
-## 8. 해석·갱신 원칙
+## 9. 해석·갱신 원칙
 
 1. 기관·기준연도·단위·산식을 함께 표기한다.
 2. MICE 참가자를 로컬기프트 구매자로 간주하지 않는다.
@@ -99,3 +116,5 @@
 5. 실제 견적·발주·납품자료는 개인정보와 영업정보를 분리해 보관한다.
 6. 사용하지 않는 오류·중복·구방향 자료는 아카이브에 남기지 않는다.
 7. 타지역·해외 연구는 제품설계 가설에만 쓰고 인천의 구매수요로 일반화하지 않는다.
+8. 역사 콘텐츠의 ‘최초’·연도·고유명사는 박물관·국가유산·시사 자료로 교차 확인한다.
+9. 개항·조계·전쟁·이민을 복고 이미지로 미화하지 않고 권력관계와 당사자의 삶을 함께 기록한다.
