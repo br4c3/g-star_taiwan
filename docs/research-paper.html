@@ -1,0 +1,192 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="인천 지역자원을 활용한 폐배터리 흑연 기반 대만 산업용수 시장 진출모델 연구">
+  <title>인천 지역자원을 활용한 폐배터리 흑연 기반 대만 산업용수 시장 진출모델 연구</title>
+  <link rel="stylesheet" href="rewater/rewater.css">
+</head>
+<body class="academic-page">
+  <header class="paper-nav">
+    <a href="index.html">RE:WATER LOOP</a>
+    <span>TECHNICAL FEASIBILITY PAPER · REV. 1.0</span>
+    <a href="#refs">REFERENCES [16]</a>
+  </header>
+
+  <main class="academic-paper">
+    <header class="paper-cover">
+      <p>TECHNICAL REPORT / TR-2026-01 / REV. 1.0</p>
+      <h1>인천 지역자원을 활용한 폐배터리 흑연 기반<br>대만 산업용수 시장 진출모델의<br>사업화 가능성에 관한 탐색적 연구</h1>
+      <p class="paper-title-en">An Exploratory Study on a Taiwan Market Entry Model for Industrial Water-Treatment Cartridges Using Incheon's Logistics and Graphite Recovered from End-of-Life Batteries</p>
+      <div class="author-line"><span>RE:WATER LOOP Research Team</span><span>발행 2026-07 · 상태: 탐색 연구</span></div>
+    </header>
+
+    <section class="abstract-box">
+      <h2>초록</h2>
+      <p>본 연구는 수도권에서 회수되는 사용후 리튬이온배터리의 음극 흑연을 정제·개질하고 제올라이트와 복합화하여, 인천에서 교체형 흡착 카트리지로 제조한 뒤 대만 산업 폐수 재이용 시장에 공급하는 지역자원 기반 해외진출 모델의 가능성을 탐색한다. 분석 범위는 인천의 제조·연구·항만 물류자원, 국내 사용후 배터리 공급, 대만 반도체 산업의 재생수 수요, 폐배터리 흑연의 수처리 선행연구, 현지 경쟁제품 및 판로를 포함한다. 인천은 폐배터리 최대 배출지역으로 단정할 근거는 부족하지만 수도권 원료를 집하·가공하고 대만으로 수출할 수 있는 물류거점으로서 의미가 있다. 대만에는 재생수 수요가 존재하는 동시에 기존 흡착제품과 대형 수처리 사업자가 이미 활동한다. 따라서 본 연구는 초순수 제조장치가 아니라 구리 이온을 1차 대상으로 하는 폐수 전처리·폴리싱 카트리지를 제안하고, 현지 수처리 기업을 직접 고객이자 채널로 활용하는 B2B2B 진입모델을 설계한다. 기술성능, 가격 및 수입요건은 아직 검증되지 않았으므로 고객 인터뷰, 용출·연속흐름 시험, 현장실증과 관세품목분류 확인이 후속되어야 한다.</p>
+      <p class="keywords"><b>주제어:</b> 인천, 지역자원, 사용후 배터리, 재생흑연, 산업 폐수, 구리 이온, 대만 진출, B2B2B</p>
+    </section>
+
+    <nav class="paper-toc" aria-label="논문 목차">
+      <h2>목차</h2>
+      <ol>
+        <li><a href="#sec1">서론</a></li><li><a href="#sec2">이론적 배경 및 선행연구</a></li><li><a href="#sec3">연구 설계</a></li><li><a href="#sec4">지역자원 및 시장 분석</a></li><li><a href="#sec5">BMC와 해외진출 모델</a></li><li><a href="#sec6">사업화 가능성 분석</a></li><li><a href="#sec7">실증 및 확장 전략</a></li><li><a href="#sec8">논의 및 연구의 한계</a></li><li><a href="#sec9">결론</a></li><li><a href="#refs">참고문헌</a></li>
+      </ol>
+    </nav>
+
+    <article class="paper-body">
+      <section id="sec1">
+        <h2><span>Ⅰ.</span> 서론</h2>
+        <h3>1. 연구 배경</h3>
+        <p>반도체 제조는 세정과 식각을 포함한 여러 공정에서 많은 양의 고순도 물을 요구한다. TSMC의 총 물 사용량은 2023년 1억 1,400만㎥에서 2024년 1억 2,900만㎥로 증가하였다.<a class="cite" href="#r1">[1]</a> 대만은 산업 성장에 필요한 물을 안정적으로 확보하기 위해 재생수 사용을 제도화하고 있다. 일일 취수계획이 2만㎥ 이상인 신규 개발사업은 산업용수의 50% 이상을 시스템 재생수로 사용해야 한다.<a class="cite" href="#r2">[2]</a></p>
+        <p>한국에서는 전기자동차와 에너지저장장치의 확산에 따라 사용후 배터리의 회수와 재활용이 새로운 산업과제로 부상하였다. 정부는 2030년 국내에서 연간 10만 개 이상의 사용후 배터리가 배출될 것으로 전망하였다.<a class="cite" href="#r3">[3]</a> 기존 배터리 재활용은 리튬·니켈·코발트 등 양극재 금속의 회수에 집중하는 경향이 있으며, 음극 흑연의 경제적 활용경로는 상대적으로 제한적이다.</p>
+        <p>이러한 배경에서 본 연구는 한국의 사용후 배터리 자원과 대만의 산업용수 재이용 수요를 하나의 국경 간 순환경제 공급망으로 연결할 수 있는지 검토한다. 분석의 초점은 정화 소재의 기술적 가능성에 한정되지 않는다. 원료 공급, 제품화, 현장 적용, 반복 구매, 사용 제품 회수와 재생이 연결되는 B2B 환경 서비스의 성립 가능성을 함께 다룬다.</p>
+        <h3>2. 연구 목적과 연구문제</h3>
+        <p>본 연구의 목적은 인천의 지역자원을 활용하여 폐배터리 유래 흑연 기반 산업용수 정화 모듈을 대만 시장에 진출시키는 모델의 가능성과 한계를 탐색하는 것이다. 구체적인 연구문제는 다음과 같다.</p>
+        <ol class="research-questions"><li><b>RQ1.</b> 인천의 원료 접근성, 제조·연구 기반과 국제물류는 어떤 지역가치를 형성하는가?</li><li><b>RQ2.</b> 대만 산업용수 시장에는 구리 이온용 보조 흡착 모듈이 진입할 수 있는 수요가 존재하는가?</li><li><b>RQ3.</b> 현지 수처리 기업을 직접 고객으로 하는 B2B2B 수익·판로모형은 어떻게 구성되는가?</li><li><b>RQ4.</b> 사업화 판단을 위해 우선 검증해야 할 기술적·가격·수입요건은 무엇인가?</li></ol>
+      </section>
+
+      <section id="sec2">
+        <h2><span>Ⅱ.</span> 이론적 배경 및 선행연구</h2>
+        <h3>1. 대만 반도체 산업과 재생수</h3>
+        <p>대만의 물 재이용은 정책 목표를 넘어 실제 생산 인프라로 전환되고 있다. 남부과학단지의 재생수 시설은 산업 폐수를 처리하여 하루 2만 톤의 재생수를 생산하며, 처리수는 반도체 제조에 다시 사용된다.<a class="cite" href="#r4">[4]</a> TSMC 타이난 사업장은 2024년 말까지 누적 1,965만㎥의 재생수를 사용하여 상수도 사용량을 31% 절감했고, 재생수 대체율 17%를 기록하였다.<a class="cite" href="#r1">[1]</a></p>
+        <p>이는 산업용수 재이용이 단순한 ESG 홍보활동이 아니라 생산 안정성과 연결된 운영과제임을 시사한다. 다만 재생수를 반도체 공정에 사용하려면 오염물의 종류와 농도에 따라 막여과, 역삼투, 이온교환, 활성탄 등 다단계 처리가 필요하다. 따라서 신규 흡착재는 전체 수처리 시스템을 대체하기보다 특정 오염물의 부하를 줄이는 보조공정으로 접근할 필요가 있다.</p>
+        <h3>2. 사용후 배터리와 흑연 회수</h3>
+        <p>국내 공공 회수체계에서 민간에 공급된 사용후 배터리는 2021년 162개에서 2025년 1,021개로 증가하였다.<a class="cite" href="#r5">[5]</a> 회수량 증가는 원료 확보 기회를 의미하지만, 재활용 설비의 증설이 곧 안정적인 수익성을 보장하지는 않는다. 국제에너지기구는 발표된 사업계획이 모두 실현될 경우 2030년 글로벌 재활용 설비능력이 가용 원료보다 빠르게 증가할 가능성을 지적하였다.<a class="cite" href="#r6">[6]</a> 이는 재활용 사업자가 단순 처리용량 외에 회수 소재의 차별화된 활용처를 확보해야 함을 의미한다.</p>
+        <h3>3. 재생흑연의 수처리 적용</h3>
+        <p>Zhao 외(2017)는 사용후 리튬이온배터리에서 회수한 흑연에 이산화망간을 결합하여 납, 카드뮴, 은 이온의 흡착 가능성을 시험하였다.<a class="cite" href="#r7">[7]</a> 2024년의 후속 연구에서는 습식제련 공정에서 남은 흑연으로 산화흑연과 산화그래핀을 제조하고 염료 및 금속 이온에 대한 흡착 가능성을 평가하였다.<a class="cite" href="#r8">[8]</a></p>
+        <p>선행연구는 폐흑연을 기능성 흡착 소재로 전환할 수 있다는 개념증명에 해당한다. 그러나 실험실의 회분식 흡착 결과는 실제 공장의 연속흐름 성능, 수명, 압력손실, 원료 편차, 용출 안전성 또는 처리수 1㎥당 비용을 직접 증명하지 않는다. 따라서 본 연구는 기술을 ‘검증된 제품’이 아니라 ‘검증할 가치가 있는 연구가설’로 규정한다.</p>
+      </section>
+
+      <section id="sec3">
+        <h2><span>Ⅲ.</span> 연구 설계</h2>
+        <h3>1. 연구 방법</h3>
+        <p>본 연구는 공개된 2차 자료를 이용한 탐색적 연구이다. 자료는 ① 대만 정부의 재생수 법령과 환경정책 자료, ② TSMC의 기업 공시, ③ 한국 정부의 사용후 배터리 정책자료, ④ 폐배터리 흑연 수처리 관련 동료심사 논문, ⑤ 대만에서 활동하는 수처리 기업의 공식자료, ⑥ 대만 특허청의 기술동향 보고서로 구성하였다.</p>
+        <h3>2. 분석 틀</h3>
+        <table><caption>표 1. 사업화 가능성 분석 틀</caption><thead><tr><th>분석 영역</th><th>핵심 질문</th><th>판단 기준</th></tr></thead><tbody><tr><td>문제 적합성</td><td>고객이 반복적으로 비용을 지불할 문제가 있는가?</td><td>규제, 사용량, 기존 처리비, 인터뷰</td></tr><tr><td>기술 적합성</td><td>재생흑연이 목표 오염물을 안전하게 처리하는가?</td><td>흡착량, 용출, 수명, 재생성, 배치 편차</td></tr><tr><td>사업 적합성</td><td>기존 대안보다 총소유비용이 낮은가?</td><td>처리수 1㎥당 비용, 교체주기, 회수비용</td></tr><tr><td>확장 적합성</td><td>국경 간 공급망을 반복 운영할 수 있는가?</td><td>규격화, 통관, 현지 파트너, 반복계약</td></tr></tbody></table>
+        <h3>3. 연구 범위</h3>
+        <p>분석 대상은 반도체 초순수 생산 전체가 아니라 산업 폐수 재이용 공정 중 흡착재가 사용될 수 있는 전처리 또는 폴리싱 구간이다. 1차 목표 오염물은 반도체·전자 제조공정에서 발생할 수 있는 구리 이온으로 설정한다. 다만 실제 고객 공정의 농도, 유량과 기존 처리비가 확인되기 전까지 이는 시장 확정이 아닌 실증 우선순위이다.</p>
+      </section>
+
+      <section id="sec4">
+        <h2><span>Ⅳ.</span> 인천 지역자원 및 대만 시장 분석</h2>
+        <h3>1. 지역 설정과 자원</h3>
+        <p>사업의 국내 거점은 인천광역시로 설정한다. 본 연구는 인천이 국내 폐배터리를 가장 많이 배출한다고 주장하지 않는다. 인천의 지역가치는 수도권에서 발생하는 원료에 접근하고, 소재 가공과 산학 검증을 거쳐, 항만·공항을 통해 대만에 시제품과 상용 카트리지를 공급할 수 있다는 연결성에 있다. 인천항만공사는 인천항과 대만을 연결하는 정기 컨테이너 항로의 개설 및 운영 사례를 공개하고 있다.<a class="cite" href="#r13">[13]</a></p>
+        <table>
+          <caption>표 2. 인천 지역자원과 사업 활용방안</caption>
+          <thead><tr><th>지역자원</th><th>사업 활용</th><th>확인해야 할 조건</th></tr></thead>
+          <tbody><tr><td>수도권 사용후 배터리 자원</td><td>음극 흑연 원료의 집하·공급</td><td>인천 반경 공급사, 월 물량, 불순물과 가격</td></tr><tr><td>인천 제조·환경산업 기반</td><td>전처리, 배합, 하우징 조립과 품질검사</td><td>위탁가공 가능 업체와 최소주문량</td></tr><tr><td>대학·연구기관</td><td>구리 흡착, 용출, 연속흐름 및 재생시험</td><td>공동연구 책임자와 분석장비 접근성</td></tr><tr><td>인천항·인천공항</td><td>대만 샘플·카트리지 수출</td><td>HS code, 운임, 납기, 위험물 해당 여부</td></tr></tbody>
+        </table>
+        <h3>2. 지역문제의 정의</h3>
+        <p>본 사업이 다루는 지역문제는 ‘인천의 폐배터리 과다 배출’이 아니다. 보다 검증 가능한 문제는 <b>수도권에서 증가하는 사용후 배터리의 회수 소재 가운데 음극 흑연의 고부가 활용처와 해외 판로가 충분히 다양화되지 않았다는 가설</b>이다. 공공 회수체계의 사용후 배터리 공급은 증가하고 있으나<a class="cite" href="#r5">[5]</a>, 인천에서 실제 확보 가능한 흑연 물량과 현행 판매단가는 재활용사 인터뷰로 확인해야 한다.</p>
+        <h3>3. 대만 수요 측 구조</h3>
+        <p>대만 시장에는 세 가지 수요 동인이 존재한다. 첫째, 반도체 생산 확대에 따른 절대적 물 사용량의 증가이다. 둘째, 신규 대규모 개발사업에 적용되는 재생수 사용 규정이다. 셋째, 가뭄이나 공급제한에도 생산을 유지해야 하는 반도체 산업의 운영 연속성 요구이다. 이 가운데 공개자료로 직접 확인할 수 있는 것은 물 사용량과 재생수 제도이며, 개별 공장의 구매의사와 처리비용은 인터뷰를 통해 추가 검증해야 한다.</p>
+        <figure class="data-figure">
+          <div class="chart-pair">
+            <div class="mini-chart">
+              <h4>TSMC 총 물 사용량</h4>
+              <div class="bar-row"><span>2023</span><i style="--value:88.4%"></i><b>114백만㎥</b></div>
+              <div class="bar-row"><span>2024</span><i style="--value:100%"></i><b>129백만㎥</b></div>
+              <small>전년 대비 약 13.2% 증가</small>
+            </div>
+            <div class="mini-chart">
+              <h4>국내 공공 회수 사용후 배터리 공급량</h4>
+              <div class="bar-row"><span>2021</span><i style="--value:15.9%"></i><b>162개</b></div>
+              <div class="bar-row"><span>2025</span><i style="--value:100%"></i><b>1,021개</b></div>
+              <small>공공 거점수거센터의 민간 공급 기준</small>
+            </div>
+          </div>
+          <figcaption><b>그림 1.</b> 수요 측 물 사용량과 공급 측 사용후 배터리 물량의 변화. 각 그래프는 서로 다른 단위이므로 크기를 상호 비교할 수 없으며, 개별 시계열의 방향만 나타낸다.<a class="cite" href="#r1">[1]</a><a class="cite" href="#r5">[5]</a></figcaption>
+        </figure>
+        <h3>4. 공급 측 구조</h3>
+        <p>한국은 배터리 제조, 사용후 배터리 회수와 재활용 역량을 보유하고 있다. 그러나 본 사업에 필요한 원료는 ‘폐배터리 전체’가 아니라 일정한 불순물과 입도 기준을 충족하는 음극 흑연이다. 따라서 원료 공급계약에는 월별 물량뿐 아니라 잔류 리튬, 전해질, 바인더, 금속 불순물과 수분에 대한 규격이 포함되어야 한다.</p>
+        <h3>5. 경쟁제품과 판로</h3>
+        <p>대만의 산업 수처리 시장에는 강한 기존 사업자가 존재한다. Kurita는 반도체 초순수, 유·무기 폐수 처리, 폐수 재이용과 유가물 회수 설비를 제공한다.<a class="cite" href="#r9">[9]</a> Organo Taiwan은 초순수와 고회수 폐수 재활용 설비 및 유지보수 서비스를 제공한다.<a class="cite" href="#r10">[10]</a> Veolia Taiwan은 연간 930만㎥의 폐수 처리실적을 공개하고 있다.<a class="cite" href="#r11">[11]</a></p>
+        <p>현지 유사제품도 존재한다. 대만 Aqua 9은 다기능 중금속 흡착 필터 카트리지를, JMAX는 구리·납·니켈 등 중금속 수처리에 적용 가능한 제올라이트계 소재를 소개한다.<a class="cite" href="#r14">[14]</a><a class="cite" href="#r15">[15]</a> 대만 제조사의 납 저감 활성탄 블록 카트리지도 확인된다.<a class="cite" href="#r16">[16]</a> 이는 ‘중금속 흡착 카트리지’ 자체가 공백시장이 아니라는 의미다.</p>
+        <p>조사한 산업용 공급사들은 표준 온라인 판매가격보다 상담·프로젝트 견적을 중심으로 운영한다. 따라서 공개 소매가격을 산업용 납품가로 대체하지 않는다. 대만 진출 전에 카트리지 규격, kg당 흡착재 가격, 교체주기, 회수·폐기비와 현장 기술지원비를 동일 조건으로 견적 받아야 한다. 대만 특허청의 2025년 분석에서도 폐수처리 및 재생 관련 주요 출원자는 Kurita 147건, Organo 78건 등 대기업 중심으로 나타났다.<a class="cite" href="#r12">[12]</a> 신생기업은 전체 설비를 직접 수주하기보다 현지 EPC·운영기업에 장착 가능한 소모품을 공급하는 전략이 적절하다.</p>
+        <table>
+          <caption>표 3. 주요 대안 및 경쟁자와 제안 모델의 진입 방향</caption>
+          <thead><tr><th>구분</th><th>현재 제공 범위</th><th>강점</th><th>RE:WATER LOOP의 대응</th></tr></thead>
+          <tbody>
+            <tr><td>Kurita</td><td>UPW, 폐수처리, 재이용, 유가물 회수</td><td>통합공정과 반도체 레퍼런스</td><td>경쟁보다 소재 실증·공급 파트너 후보</td></tr>
+            <tr><td>Organo Taiwan</td><td>UPW, 고회수 폐수처리, 유지보수</td><td>대만 현지 운영·기술지원</td><td>기존 설비에 연결하는 소모품으로 보완</td></tr>
+            <tr><td>Veolia Taiwan</td><td>산업 수처리 설계·운영 통합서비스</td><td>운영 규모와 현지 고객 접점</td><td>현장 검증 및 유통 채널 제휴</td></tr>
+            <tr><td>Aqua 9·JMAX</td><td>중금속 흡착 카트리지·제올라이트 소재</td><td>현지 제품과 중금속 적용 메시지</td><td>재생흑연의 TCO·회수성으로 비교</td></tr>
+            <tr><td>기존 GAC·이온교환수지</td><td>흡착·이온 제거용 표준 소모품</td><td>안정된 공급과 축적된 운전자료</td><td>동일 조건에서 처리수 1㎥당 비용으로 비교</td></tr>
+          </tbody>
+        </table>
+      </section>
+
+      <section id="sec5">
+        <h2><span>Ⅴ.</span> BMC와 대만 진출모델</h2>
+        <h3>1. 사업 및 아이템 개요</h3>
+        <p>아이템의 작업명은 <b>RE:WATER Cartridge</b>로 설정한다. 폐리튬이온배터리 음극재에서 회수·정제·개질한 흑연계 소재와 제올라이트를 결합한 교체형 산업 폐수 흡착 카트리지이다. 1차 제거대상은 구리 이온이며, 역할은 초순수 제조가 아니라 기존 폐수 재이용 설비의 전처리 또는 폴리싱 보조모듈이다. 포화 감지층은 실현방식과 정확도가 검증되기 전까지 필수 판매사양이 아닌 연구개발 항목으로 둔다.</p>
+        <table><caption>표 4. 고객–문제–해결 정의</caption><thead><tr><th>구분</th><th>정의</th></tr></thead><tbody><tr><td>최종 사용자</td><td>대만 반도체·전자부품 제조공장 및 산업단지 폐수처리시설</td></tr><tr><td>직접 고객</td><td>대만 수처리 EPC·O&amp;M 기업, 필터·흡착재 유통사</td></tr><tr><td>고객 문제</td><td>구리 함유 폐수의 안정적 처리, 흡착재 교체·폐기와 총소유비용 관리</td></tr><tr><td>제안 해결책</td><td>기존 설비에 병렬 설치 가능한 규격형 카트리지와 교체·회수 서비스</td></tr><tr><td>검증할 가치</td><td>기존 GAC·수지 대비 처리수 1㎥당 비용과 폐기량 절감</td></tr></tbody></table>
+        <h3>2. Business Model Canvas</h3>
+        <table><caption>표 5. RE:WATER Cartridge BMC</caption><thead><tr><th>영역</th><th>내용</th></tr></thead><tbody><tr><td>고객군</td><td>직접 고객: 대만 수처리 EPC·O&amp;M·필터 유통사 / 최종 사용자: 반도체·전자 제조사와 산업단지</td></tr><tr><td>가치제안</td><td>구리 이온 추가 제거, 기존 설비 호환, 교체형 운전, 회수·재생 가능성, 한국 폐자원 활용</td></tr><tr><td>채널</td><td>현지 EPC 공동 PoC, 대만 환경·반도체 전시회, 필터 유통사, 기술대리점</td></tr><tr><td>고객관계</td><td>폐수 샘플 진단, 맞춤 사양, 성능보증 범위 합의, 정기 교체·회수계약</td></tr><tr><td>수익원</td><td>유료 PoC, 카트리지·흡착소재 판매, 정기 교체료, 회수·재생 서비스</td></tr><tr><td>핵심자원</td><td>규격화 재생흑연, 제올라이트, 정제·개질 조건, 카트리지 설계, 성능 DB</td></tr><tr><td>핵심활동</td><td>원료 QC, 흡착·용출시험, 카트리지 제조, 대만 인증·실증, 회수 추적</td></tr><tr><td>핵심파트너</td><td>국내 재활용사·가공사·시험기관, 인천 물류사, 대만 EPC·O&amp;M·통관사</td></tr><tr><td>비용구조</td><td>원료 정제·개질, 제올라이트·바인더, 하우징, 시험·인증, 물류, 현장지원</td></tr></tbody></table>
+        <h3>3. 공급·판매·회수 구조</h3>
+        <ol class="model-sequence"><li><b>수도권 원료 확보</b><span>재활용사에서 규격화된 음극 흑연을 계약 공급받는다.</span></li><li><b>인천 소재화·조립</b><span>정제·개질·복합화 후 카트리지를 제조하고 배치별 품질을 검사한다.</span></li><li><b>대만 파트너 수입</b><span>현지 EPC·유통사가 수입자 역할을 맡고 기존 고객 공정에서 PoC를 수행한다.</span></li><li><b>B2B2B 공급</b><span>파트너가 제조공장에 설치·유지보수하고 당사는 소재와 성능자료를 제공한다.</span></li><li><b>현지 회수·판정</b><span>사용 카트리지는 대만에서 재생 가능성을 판정한다. 한국 역수입은 규제·LCA 확인 후 결정한다.</span></li></ol>
+        <h3>4. 대만 수입·판로 조사 항목</h3>
+        <table><caption>표 6. 상용화 전 수입·판로 확인표</caption><thead><tr><th>항목</th><th>현재 확인</th><th>다음 조사</th></tr></thead><tbody><tr><td>유사제품</td><td>활성탄 블록, 중금속 흡착 카트리지, 제올라이트 소재 존재</td><td>구리 대상 사양서와 3개사 샘플 확보</td></tr><tr><td>가격</td><td>산업용 공개가격 부족, 견적 중심</td><td>동일 유량·수질·수명 조건 RFQ 발송</td></tr><tr><td>판매채널</td><td>수처리 EPC, O&amp;M, 소재·필터 유통사</td><td>PoC 가능한 현지 파트너 5개사 인터뷰</td></tr><tr><td>구매기준</td><td>호환성, 성능 안정성, 수명, 용출, TCO</td><td>구매·EHS·운영 담당자별 승인조건 확인</td></tr><tr><td>수입요건</td><td>최종 조성·형태 미확정으로 HS code 미정</td><td>대만 관세사 사전품목분류 및 SDS·성분표 검토</td></tr><tr><td>폐카트리지</td><td>오염물 흡착 후 폐기물 분류 가능</td><td>대만 현지 재생·처리와 한국 회수의 적법성·LCA 비교</td></tr></tbody></table>
+        <h3>5. 수익구조</h3>
+        <p>초기 수익은 폐수 분석과 8–12주 사이드스트림 시험을 묶은 유료 실증에서 발생한다. 상용화 이후에는 카트리지 또는 흡착소재 공급, 정기 교체, 현지 회수·재생 서비스를 결합한다. 대만 반도체 제조사에 직접 판매하기보다 현지 수처리 기업을 직접 고객으로 확보하면 기존 설치기반과 유지보수 인력을 활용할 수 있다.</p>
+      </section>
+
+      <section id="sec6">
+        <h2><span>Ⅵ.</span> 사업화 가능성 분석</h2>
+        <h3>1. 기회요인</h3>
+        <ul><li>대만의 반도체 물 사용 증가와 재생수 의무는 수처리 기술의 지속적인 수요를 형성한다.</li><li>한국의 사용후 배터리 증가는 음극 흑연의 안정적 확보 가능성을 높인다.</li><li>재생흑연의 흡착재 전환에 관한 과학적 개념증명이 존재한다.</li><li>카트리지형 제품은 대규모 설비 교체보다 제한된 범위에서 시험하기 용이하다.</li></ul>
+        <h3>2. 위험요인</h3>
+        <table><caption>표 7. 주요 사업화 위험과 검증방안</caption><thead><tr><th>위험</th><th>사업 영향</th><th>검증 또는 완화 방안</th></tr></thead><tbody><tr><td>원료 불순물·편차</td><td>성능과 안전성 불안정</td><td>공급 규격과 배치별 용출시험 설정</td></tr><tr><td>실험실–현장 성능 차이</td><td>수명 단축과 비용 증가</td><td>연속흐름 파과시험과 실제 폐수 PoC</td></tr><tr><td>기존 GAC·수지 대비 열위</td><td>구매 필요성 소멸</td><td>동일 조건 A/B 시험과 ㎥당 TCO 비교</td></tr><tr><td>반도체 공급사 인증</td><td>도입기간 장기화</td><td>비핵심 사이드스트림에서 운영사와 공동 실증</td></tr><tr><td>수입분류·역물류</td><td>통관 지연과 폐기물 규제</td><td>사전품목분류, 현지 처리와 한국 회수 비교</td></tr></tbody></table>
+        <h3>3. 잠정 판단</h3>
+        <p>사업 가능성은 <b>조건부로 존재</b>한다. 수요와 원료의 거시적 방향은 확인되었고 기술 개념증명도 존재한다. 그러나 고객의 구체적 고통, 대상 오염물, 현장 수명과 총소유비용은 입증되지 않았다. 따라서 현재 단계에서 대규모 시설투자나 시장규모 기반 가치평가를 수행하기보다, 고객 문제와 소재 성능을 동시에 확인하는 저비용 실증을 우선해야 한다.</p>
+      </section>
+
+      <section id="sec7">
+        <h2><span>Ⅶ.</span> 실증 및 확장 전략</h2>
+        <h3>1. 단계별 실증</h3>
+        <table><caption>표 8. 단계별 MVP와 의사결정 기준</caption><thead><tr><th>단계</th><th>기간</th><th>검증내용</th><th>의사결정 기준</th></tr></thead><tbody><tr><td>문제 인터뷰</td><td>0–2개월</td><td>대만 운영사·EHS 및 국내 재활용사 15명 인터뷰</td><td>구리 처리문제 반복 확인, 샘플 현장 2곳</td></tr><tr><td>소재 스크리닝</td><td>0–2개월</td><td>구리 흡착, 용출, 재생 비교</td><td>기존 GAC·수지 대비 TCO 우위 경로</td></tr><tr><td>벤치 카트리지</td><td>2–5개월</td><td>1–5 L/h 연속흐름과 배치 편차 시험</td><td>목표 수명·압력손실·안전기준 충족</td></tr><tr><td>현장 PoC</td><td>6–12개월</td><td>대만에서 8–12주 병렬 A/B 시험</td><td>처리수 1㎥당 총비용 15% 절감 가설</td></tr></tbody></table>
+        <h3>2. 시장규모 산정</h3>
+        <p>현재 ‘대만 반도체용 재생흑연 카트리지 시장’에 관한 신뢰할 수 있는 공개 통계는 확인되지 않았다. 따라서 TAM·SAM·SOM은 외부 시장보고서의 광범위한 수처리 시장 수치를 적용하지 않고 바텀업 방식으로 계산해야 한다.</p>
+        <div class="formulae"><p><b>TAM</b> = 대만 첨단제조 대상 현장 수 × 현장당 연간 흡착·운영비</p><p><b>SAM</b> = TAM × 목표 오염물 발생 비율 × 기술 적용 가능 비율 × 파트너 도달률</p><p><b>SOM</b> = 3년 내 유료 PoC 수 × 상용계약 전환율 × 평균 연간 계약액</p></div>
+        <p>각 변수는 고객 인터뷰, 공개 조달자료, 폐수 샘플 분석과 유료 PoC 실적이 생긴 이후 입력해야 한다. 검증 전 임의의 시장금액을 제시하는 것은 피한다.</p>
+      </section>
+
+      <section id="sec8">
+        <h2><span>Ⅷ.</span> 논의 및 연구의 한계</h2>
+        <p>본 연구의 가장 큰 시사점은 ‘한국의 폐배터리와 대만의 물 부족을 연결한다’는 거시적 서사를 인천의 집하·제조·검증·수출 기능과 대만 현지 파트너의 설치·운영 기능으로 구체화했다는 데 있다. 지역성은 단순히 인천이라는 지명을 붙이는 것이 아니라 국내에서 어떤 가치활동과 고용, 공급망이 형성되는지로 평가되어야 한다. 고객은 순환경제 이야기 자체가 아니라 방류수 기준 준수, 공정 중단 방지와 처리비 절감을 구매하므로 환경적 가치는 검증된 성능과 함께 제시해야 한다.</p>
+        <p>본 연구에는 다섯 가지 한계가 있다. 첫째, 인천과 수도권에서 실제 조달 가능한 음극 흑연 물량과 가격을 확인하지 않았다. 둘째, 대만 고객 인터뷰와 실제 폐수 샘플 시험이 없다. 셋째, 구리 이온을 우선 대상으로 정했지만 공정별 농도와 경쟁 처리비가 확인되지 않았다. 넷째, 카트리지의 HS code, 대만 수입요건과 사용 후 폐기물 분류를 검토하지 않았다. 다섯째, 산업용 유사제품은 공개가격이 부족해 총소유비용 비교를 수행하지 못했다. 따라서 본 결과는 투자 또는 성능을 확정하는 근거가 아니라 다음 실증과 현지조사의 우선순위를 정하는 탐색적 결과이다.</p>
+      </section>
+
+      <section id="sec9">
+        <h2><span>Ⅸ.</span> 결론</h2>
+        <p>인천을 원료 집하·소재화·품질검증·수출 거점으로 삼아 폐배터리 유래 흑연을 대만 산업 폐수 재이용 시장에 공급하는 모델은 지역자원, 해외판로와 순환경제를 하나의 가치사슬로 연결한다. 대만에는 재생수 수요와 현지 유통·운영 채널이 존재하지만 활성탄, 이온교환수지, 제올라이트 소재와 중금속 카트리지라는 명확한 대안도 존재한다. 따라서 친환경성만으로는 진입할 수 없다.</p>
+        <p>초기제품은 구리 이온을 대상으로 하는 폐수 전처리·폴리싱 카트리지로 제한하고, 대만 수처리 EPC·O&amp;M 기업을 직접 고객 겸 실증 파트너로 삼아야 한다. 향후 30일 동안 인천권 재활용사 원료 샘플, 공동시험기관, 대만 파트너 인터뷰 5건, 유사제품 RFQ 3건, 관세사 품목분류 검토를 확보해야 한다. 이 조건이 충족될 때 본 아이디어는 지역자원 기반 해외진출 사업가설로 전환될 수 있다.</p>
+      </section>
+
+      <section class="paper-references" id="refs">
+        <h2>참고문헌</h2>
+        <ol>
+          <li id="r1">TSMC. (2025). <i>2024 Annual Report: Corporate Sustainability (ESG)</i>. <a href="https://investor.tsmc.com/static/annualReports/2024/english/pdf/2024_tsmc_ar_e_ch7.pdf">원문</a></li>
+          <li id="r2">Ministry of Economic Affairs, R.O.C. (2023). <i>Regulations on Governing the Developer’s Use of Reclaimed Water</i>. <a href="https://law.moea.gov.tw/EngLawContent.aspx?id=10590&amp;lan=E&amp;media=downloadPDF">원문</a></li>
+          <li id="r3">대한민국 정부. (2024). 「사용후 배터리 산업 육성을 위한 법·제도·인프라 구축 방안」. <a href="https://www.korea.kr/news/policyNewsView.do?newsId=148931288">원문</a></li>
+          <li id="r4">대만 환경부 국가환경연구원. (2023). 「글로벌 최초 산업폐수의 반도체 공정 재이용 시설」. <a href="https://enews.moenv.gov.tw/moenv-news/zh-tw/News/3090">원문</a></li>
+          <li id="r5">기후에너지환경부. (2026). 「미래폐자원 거점수거센터 운영 강화」. <a href="https://www.mcee.go.kr/home/web/board/read.do?boardId=1837960&amp;boardMasterId=1">원문</a></li>
+          <li id="r6">International Energy Agency. (2026). <i>Recycling of Critical Minerals: Executive Summary</i>. <a href="https://www.iea.org/reports/recycling-of-critical-minerals/executive-summary">원문</a></li>
+          <li id="r7">Zhao, T., et al. (2017). Preparation of MnO₂-Modified Graphite Sorbents from Spent Li-Ion Batteries for the Treatment of Water Contaminated by Lead, Cadmium, and Silver. <i>ACS Applied Materials &amp; Interfaces, 9</i>(30), 25369–25376. <a href="https://doi.org/10.1021/acsami.7b07882">DOI</a></li>
+          <li id="r8">Recycling lithium-ion battery graphite: Synthesis of adsorbent materials for highly efficient removal of dye and metal ions from wastewater. (2024). <i>Results in Engineering, 22</i>, 102232. <a href="https://doi.org/10.1016/j.rineng.2024.102232">DOI</a></li>
+          <li id="r9">Kurita Water Industries. <i>Electronics Industry Solutions</i>. <a href="https://www.kurita-water.com/en/industries/electron.html">원문</a></li>
+          <li id="r10">Organo Technology Co., Ltd. Taiwan. <i>Services</i>. <a href="https://www.organo.com.tw/">원문</a></li>
+          <li id="r11">Veolia Taiwan. <i>Overview</i>. <a href="https://www.veolia.tw/en/about-us/overview">원문</a></li>
+          <li id="r12">대만 경제부 지혜재산국. (2025). 「반도체 공정설비 폐수처리 및 재생기술 특허동향 연구」. <a href="https://www.tipo.gov.tw/wSite/public/Attachment/0/f1745401956363.pdf">원문</a></li>
+          <li id="r13">Incheon Port Authority. (2022). <i>Incheon Port Opens 7th Container Route in Taiwan</i>. <a href="https://www.icpa.or.kr/eng/article/view.do?articleKey=23473&amp;boardKey=266&amp;menuKey=623">원문</a></li>
+          <li id="r14">Aqua 9 Biotechnology Co., Ltd. <i>Multi-functional Heavy Metal Adsorption Filter Cartridge</i>. <a href="https://www.aqua9sim.com/en/">원문</a></li>
+          <li id="r15">JMAX Innovation. <i>Zeolite-based Water Treatment Applications</i>. <a href="https://www.jmax.com.tw/">원문</a></li>
+          <li id="r16">Caware Filtering Corporation. <i>Lead Removal Activated Carbon Block Filter Cartridge</i>. <a href="https://www.h2ofilterwarehouse.com/global/pdf/KLBG01-10.pdf">원문</a></li>
+        </ol>
+      </section>
+    </article>
+  </main>
+</body>
+</html>
